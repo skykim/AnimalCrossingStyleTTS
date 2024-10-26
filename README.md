@@ -9,4 +9,4 @@ Animal Crossing Style TTS in Korean
 1. Download the following files from [unity/sentis-jets-text-to-speech](https://huggingface.co/unity/sentis-jets-text-to-speech/tree/main) on HuggingFace:
  - jets-text-to-speech.sentis
  - phoneme_dict.txt
-2. Place the downloaded files in the project's "StreamingAssets" folder
+2. Place the downloaded files in the "StreamingAssets" folder
